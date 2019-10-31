@@ -1,4 +1,4 @@
-Ereigniss_Datum,Ereigniss_Zeit,Melde_Datum,Melde_Zeit,Längengrad,Breitengrad,Zuersklasse,Schadenart,Schadenobjekt
+Ereigniss_Datum,Ereigniss_Zeit,Melde_Datum,Melde_Zeit,LÃ¤ngengrad,Breitengrad,Zuersklasse,Schadenart,Schadenobjekt
 2008-02-14,06:15,2008-02-14,09:35,50.92223669556059,6.968245860448807,2,970,1,Kumulfall
 2008-02-14,06:16,2008-02-15,12:35,50.921887,6.967983,2,970,1,Kumulfall
 2008-02-14,06:16,2008-02-15,13:35,50.92223669556059,6.968245860448807,2,970,1,Kumulfall
